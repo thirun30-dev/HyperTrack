@@ -113,7 +113,7 @@ Connect using any Bluetooth terminal application.
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/ESP32-RoboRaceBot.git
+git clone https://github.com/thirun30-dev/HyperTrack.git
 ```
 
 ### 2. Open Arduino IDE
